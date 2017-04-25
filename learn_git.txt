@@ -1,1 +1,3 @@
-this is learn for git!
+This is learn for git!
+insert 
+Git is a distributed version control system.
